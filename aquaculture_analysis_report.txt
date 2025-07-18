@@ -1,0 +1,48 @@
+
+        Aquaculture IoT ML Pipeline Report
+        =================================
+        
+        Analysis Date: 2025-07-18 22:21:58
+        
+        Data Overview:
+        - Total Records: 4383
+        - Date Range: 2024-01-01 00:00:00 to 2024-07-01 14:00:00
+        - Targets Analyzed: 7
+        
+        Target Metrics:
+        
+        Average Fish Weight (g):
+          - Best Model: RandomForest
+          - MAE: 0.0003
+          - RMSE: 0.0008
+          - R²: -218569968074276765696.0000
+        Survival Rate (%):
+          - Best Model: RandomForest
+          - MAE: 0.0001
+          - RMSE: 0.0001
+          - R²: 0.0000
+        Disease Occurrence (Cases):
+          - Best Model: RandomForest
+          - MAE: 0.0000
+          - RMSE: 0.0000
+          - R²: 1.0000
+        Temperature (°C):
+          - Best Model: GradientBoosting
+          - MAE: 0.0002
+          - RMSE: 0.0002
+          - R²: -3711273298142821875712.0000
+        Dissolved Oxygen (mg/L):
+          - Best Model: Ridge
+          - MAE: 0.0068
+          - RMSE: 0.0069
+          - R²: -60809869995803133490495488.0000
+        pH:
+          - Best Model: RandomForest
+          - MAE: 0.0005
+          - RMSE: 0.0005
+          - R²: 0.0000
+        Turbidity (NTU):
+          - Best Model: RandomForest
+          - MAE: 0.0000
+          - RMSE: 0.0000
+          - R²: -2123263568111546400768.0000
